@@ -45,7 +45,7 @@ ZSH_THEME="simple"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git github screen go vundle python pip repo autojump)
+plugins=(git github screen go vundle python pip repo fasd)
 
 # User configuration
 
